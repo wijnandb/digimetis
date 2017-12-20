@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Digimetis</title><link href="http://digimetis.nl/" rel="alternate"></link><link href="http://digimetis.nl/feeds/all-nl.atom.xml" rel="self"></link><id>http://digimetis.nl/</id><updated>2017-12-14T20:05:47+01:00</updated><entry><title>Markdown opmaak</title><link href="http://digimetis.nl/markdown-opmaak.html" rel="alternate"></link><published>2017-12-14T20:05:47+01:00</published><updated>2017-12-14T20:05:47+01:00</updated><author><name>Wijnand Baretta</name></author><id>tag:digimetis.nl,2017-12-14:/markdown-opmaak.html</id><summary type="html">&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h1&gt;Header 1&lt;/h1&gt;
+&lt;h2&gt;Header 2&lt;/h2&gt;
+&lt;h3&gt;Header 3&lt;/h3&gt;
+&lt;h4&gt;Header 4&lt;/h4&gt;
+&lt;h5&gt;Header 5&lt;/h5&gt;
+&lt;h6&gt;Header 6&lt;/h6&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;____
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;hr&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;[linktekst](http://www.link.com)
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;a href="http://www.link.com"&gt;linktekst&lt;/a&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&amp;gt; Dit is een voorbeeld van een citaat
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;Dit is een voorbeeld van een citaat&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;*italic*
+**bold**
+***italic and bold …&lt;/pre&gt;&lt;/div&gt;</summary><content type="html">&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h1&gt;Header 1&lt;/h1&gt;
+&lt;h2&gt;Header 2&lt;/h2&gt;
+&lt;h3&gt;Header 3&lt;/h3&gt;
+&lt;h4&gt;Header 4&lt;/h4&gt;
+&lt;h5&gt;Header 5&lt;/h5&gt;
+&lt;h6&gt;Header 6&lt;/h6&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;____
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;hr&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;[linktekst](http://www.link.com)
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;a href="http://www.link.com"&gt;linktekst&lt;/a&gt;&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;&amp;gt; Dit is een voorbeeld van een citaat
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;blockquote&gt;
+&lt;p&gt;Dit is een voorbeeld van een citaat&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;*italic*
+**bold**
+***italic and bold***
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;p&gt;&lt;em&gt;italic&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;italic and bold&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Ordered list&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;1. eerste item
+* tweede item
+* derde item
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;ol&gt;
+&lt;li&gt;eerste item&lt;/li&gt;
+&lt;li&gt;tweede item&lt;/li&gt;
+&lt;li&gt;derde item&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Unordered list&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre&gt;&lt;span&gt;&lt;/span&gt;- dat kan zo
++ of zo
+* of zo
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;ul&gt;
+&lt;li&gt;dat kan zo&lt;/li&gt;
+&lt;li&gt;of zo&lt;/li&gt;
+&lt;li&gt;of zo&lt;/li&gt;
+&lt;/ul&gt;</content></entry></feed>
